@@ -1,0 +1,13 @@
+#First set a Algorithm that need to follow
+
+#Example:
+
+For creating a Python script to lists contents of directories. It will first prompt the user to input a list of directories for which the listings are needed.
+
+1. First, take input from the user to provide the list of directories.
+
+2. Identify modules and their functions.
+
+3. Utilize a for loop to list files in directories.
+
+4. Manage any known errors using exception handling.
